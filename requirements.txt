@@ -1,1 +1,4 @@
-termcolor colored cprint sys
+termcolor
+colored
+cprint
+sys
