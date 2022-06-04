@@ -4,5 +4,5 @@ A utillity to test if your system is configured as a alpha male
 
 # Installation
 just run the binary
-`chmod +x test
+`chmod +x test &&
 ./test`
